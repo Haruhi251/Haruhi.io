@@ -16,7 +16,8 @@ html, body {
 }
 
 body {
-  margin: 0;
+  margin-top:2cm;
+margin-bottom:2cm;
   padding: 30px;
   color: #003300;
 }
