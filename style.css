@@ -18,7 +18,7 @@ html, body {
 body {
   margin: 0;
   padding: 30px;
-  color: #CEF9DC;
+  color: #003300;
 }
 
 /* --------------------
@@ -68,8 +68,8 @@ tr:nth-child(2n) {
   background-color: #f9f9f9;
 }
 th {
-background-color:#FFFFAA;
-        color:white;
+background-color:#FFA07A;
+        color:#000000;
 }
 th, td {
   border: solid 1px #f0f0f0;
